@@ -144,6 +144,7 @@ body{
 }
 .oneProduct__link{
     text-decoration: none;
+    color: #000;
 }
 .oneProduct__imgBlock{
     margin: 0 auto;
