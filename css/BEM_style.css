@@ -450,7 +450,7 @@ body{
    display: inline-flex;
 }
 
-.breadcrumb>li + li:before {
+.breadcrumb>div + div:before {
     padding: 0 3px;
     color: #1a1a19;
     content: ">";
